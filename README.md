@@ -9,7 +9,7 @@ This project uses 15 years of California county-level administrative data to eva
 
 **Summary of findings:** AB 403 reduced entries most in the counties with the highest pre-reform rates. COVID caused a 25% drop in entries that never recovered — by 2024, California's entry rate was 30% below 2019 and still falling.
 
-📄 **Read the full analysis:** [Medium article](https://medium.com/@nishreenk/californias-foster-care-crisis-that-nobody-is-talking-about)
+📄 **Read the full analysis:** [Medium article](https://medium.com/@nishrink/californias-foster-care-crisis-that-nobody-is-talking-about)
 
 ---
 
